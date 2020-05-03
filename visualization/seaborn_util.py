@@ -17,3 +17,4 @@ def count_plot(df:         pd.DataFrame,
                 '{:1.2f}%'.format(100*height/total),
                 ha="center")
     plt.show()
+
