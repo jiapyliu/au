@@ -1,12 +1,11 @@
 from torch.utils.data import DataLoader
 from torchvision import transforms
-def deal_with_data():
-    '''
-    处理数据，没有可不写。
-    :return:
-    '''
-    # pass
 
+def train_test_transform():
+    """
+    直接得到train_transform, test_trainsform
+    :return: train_transform, test_trainsform
+    """
     train_transform = transforms.Compose([
         transforms.Resize(256),
         transforms.RandomResizedCrop(256, scale=(0.6, 1.0), ratio=(0.8, 1.0)),
