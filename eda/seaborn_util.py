@@ -1,7 +1,9 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
-def count_plot(df:         pd.DataFrame,
+
+
+def plot_count(df:         pd.DataFrame,
                feature:    pd.Series,
                title:      str = '',
                size:       int = 2
