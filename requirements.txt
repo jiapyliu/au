@@ -1,0 +1,7 @@
+seaborn
+jupyterlab
+pillow
+opencv-python
+#由于时间问题手动下载 以下包 或者解开注解
+#torch # 手动下载
+#torchvision # 手动下载
