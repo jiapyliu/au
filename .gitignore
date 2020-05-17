@@ -1,3 +1,6 @@
-data/
-.idea/
-venv/
+data
+.idea
+venv
+dist
+*.egg-info
+build
