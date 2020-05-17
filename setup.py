@@ -9,5 +9,6 @@ requires = [
 
 setup(
     name = 'au',
-    packages = packages
+    packages = packages,
+    author=about['__author__']
 )
