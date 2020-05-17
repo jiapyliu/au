@@ -1,0 +1,10 @@
+__title__ = 'au'
+__description__ = 'The AI utils.'
+__url__ = 'https://github.com/jiapyliu/au'
+__version__ = '0.0.1'
+__build__ = 0x0001
+__author__ = 'jiapyliu'
+__author_email__ = 'retfings@gmail.com'
+__license__ = 'Apache 2.0'
+__copyright__ = 'Copyright 2020 liupyjia'
+# __cake__ = u'\u2728 \U0001f370 \u2728'
