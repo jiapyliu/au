@@ -1,3 +1,1 @@
-# from .torch import *
-# from .memory import *
-# from .platform import *
+from . import _init,_memory,_platform,_torch

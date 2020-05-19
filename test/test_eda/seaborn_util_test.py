@@ -1,3 +1,3 @@
-from au.eda.seaborn_util import count_plot
+from au.eda._seaborn import count_plot
 
 count_plot()

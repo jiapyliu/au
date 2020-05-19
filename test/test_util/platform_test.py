@@ -1,3 +1,3 @@
-from au.util.platform import *
+from au.util._platform import *
 
 print(on_kaggle())
